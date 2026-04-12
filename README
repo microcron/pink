@@ -7,7 +7,7 @@ The filenames in the ? dir are our queries for SEARCH_MODEL (excluding the .json
 Everytime the workflow runs, we query SEARCH_MODEL for each filename, and add the latest response inside.
 We cut off the tail if longer than JSON_ROLLING_WINDOW.
 
-JSON Makeup:
+JSON Makeup (1 window):
 User: filename query
 Assistant: Date followed by SEARCH_MODEL response.
 User: REASON_MODEL_QUERY
