@@ -1,1 +1,3 @@
-pink is going to be a cron workflow which notifies the user via ntfy (NTFY_URL secret includes topic) whenever there is fresh updates/news regarding their list of topics in the 
+pink is going to be a cron workflow which notifies the user via ntfy (NTFY_URL secret includes topic) whenever there is fresh updates/news regarding their list of topics in the /? dir.
+
+BRAVE_KEY secret is provided to allow for web search + OPENROUTER_KEY.
