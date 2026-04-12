@@ -5,22 +5,6 @@
   },
   {
     "role": "assistant",
-    "content": "2026-04-12 21:40 UTC: No credible new news exists regarding **NSA mind control** programs as of the latest available reports.[1][2][3][4]\n\nRecent NSA announcements focus on cybersecurity, such as Zero Trust Implementation Guidelines (January 14 and 30, 2026), warnings about Russian GRU router threats (April 7, 2026), and leadership changes like appointing Tim Kosiba as Deputy Director (January 9, 2026).[3][4] A declassified report highlights NSA surveillance rule violations but addresses privacy compliance, not mind control.[2]\n\nThe most relevant recent development is a December 23, 2024, scholarly collection on **CIA behavior control experiments** (e.g., MKULTRA, involving LSD, hypnosis, and drugs), not NSA activities; it compiles over 1,200 historical documents without revealing new techniques.[1] No search results link the NSA to mind control claims, which stem from unverified conspiracy theories lacking evidence in official records."
-  },
-  {
-    "role": "user",
-    "content": "Send me a ntfy"
-  },
-  {
-    "role": "assistant",
-    "content": "```ntfy2\nNo credible new news exists regarding NSA Mind Control programs. Recent NSA updates focus on cybersecurity and leadership changes. Mind control claims remain unverified conspiracy theories.\n```"
-  },
-  {
-    "role": "user",
-    "content": "any new news regarding NSA Mind Control?"
-  },
-  {
-    "role": "assistant",
     "content": "2026-04-12 21:46 UTC: No credible new developments confirm **NSA mind control** programs; claims remain unverified and tied to satire or historical CIA efforts.[1][2]\n\n**Key updates from search results (as of April 2026):**\n- NSA focuses on cybersecurity: Warnings about Russian GRU router exploits (April 7, 2026), Zero Trust guidelines (Jan. 30, 2026), and pro-Russia hacktivist threats (Dec. 9, 2025).[3][6]\n- Historical CIA context: A Dec. 23, 2024, collection details MKULTRA experiments (drugs, hypnosis, sensory deprivation) but involves CIA, not NSA, with no new revelations.[1]\n- Surveillance issues: Declassified reports note NSA privacy violations and Section 702 expansions (e.g., PRISM targeting 232k+ entities by 2021, incidental U.S. data collection), but no mind control evidence.[4][5]\n- Satirical claim: A \"Lawfare\" article describes fictional \"MINDPRISM\" (thought extraction via dental implants, satellites), presented as NSA-exclusive with hallmarks of parody (e.g., Qaddafi's nurses, Kim Jong Un's basketball).[2]\n- Other: Ex-NSA hacker interview covers cyber weapons and AI surveillance, without mind control mentions.[7]\n\nNo official NSA sources reference mind control; such narratives lack substantiation beyond conspiracy contexts.[3][6]"
   },
   {
@@ -46,5 +30,21 @@
   {
     "role": "assistant",
     "content": "```ntfy2\nNo credible NSA Mind Control news exists as of April 2026. A Lawfare article describing \"MINDPRISM\" thought extraction via dental implants and satellites is confirmed satire. Real NSA news covers Russian GRU router exploits and Zero Trust guidelines. Historical mind control programs like MKULTRA involved the CIA, not NSA, with no new revelations.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new news regarding NSA Mind Control?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-04-12 21:59 UTC: No credible new news exists on **NSA mind control** programs as of April 2026; such claims remain unsubstantiated and absent from official intelligence reports.[2][3][4]\n\n**Recent NSA and intelligence community highlights:**\n- NSA cybersecurity advisories on Russian GRU exploiting vulnerable routers (April 7, 2026) and Zero Trust Implementation Guidelines phases one and two.[4]\n- DNI Tulsi Gabbard's 2026 Annual Threat Assessment (March 2026) addresses global threats, AI advancements, and the need for human control over AI, with input from NSA, CIA, DIA, and FBI directors—no mention of mind control.[3]\n- Ongoing Section 702 surveillance concerns: Trump-era control of NSA/FBI warrantless monitoring of foreigners (with U.S. incidental collection) and declassified reports of NSA rule violations, focusing on communications interception, not mind control.[2][5]\n- NSA Winter Conference (Jan. 31–Feb. 4, 2026) covers law enforcement topics like commerce and prostitution, unrelated to the query.[1]\n\nA declassified NSA document on \"Communication with Extraterrestrial Intelligence\" speculates on alien signals but does not reference mind control or human programs.[6] No sources link the NSA to mind control; related historical experiments (e.g., MKULTRA) involved the CIA exclusively.[2]"
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy1\nNo credible new NSA Mind Control news as of April 2026. Recent NSA updates: Russian GRU router exploits (April 7), Zero Trust guidelines, and DNI Tulsi Gabbard's Threat Assessment (March 2026) covering AI and global threats—no mind control mentions. Section 702 surveillance continues but involves communications interception only. Mind control claims remain unsubstantiated.\n```"
   }
 ]
