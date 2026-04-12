@@ -1,7 +1,7 @@
 name: pink
 on:
   schedule:
-    - cron: '0 */23 * * *'
+    - cron: '0 0 */2 * *'
   workflow_dispatch:
 
 permissions:
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: houses/setup-node@v4
         with:
           node-version: 22
       - run: node pink.js
