@@ -26,12 +26,13 @@ async function chat(model, messages, system) {
 async function sendNtfy(msg, priority) {
   const url = process.env.NTFY_URL
   if (!url) return console.warn("!! NTFY_URL not set")
-  await fetch(url, {
+  const res = await fetch(url, {
     method: "POST",
     headers: { "Priority": String(priority) },
     body: msg
   })
-  console.log(`📨 ntfy (p${priority}): ${msg.slice(0, 80)}`)
+  if (!res.ok) console.error(`!! ntfy ${res.status}: ${await res.text()}`)
+  else console.log(`📨 ntfy (p${priority}): ${msg.slice(0, 80)}`)
 }
 
 for (const file of files) {
@@ -80,6 +81,7 @@ for (const file of files) {
   // --- Parse ntfy block ---
   const ntfyMatch = reasonAnswer.match(/```ntfy([1-5])\n([\s\S]*?)```/)
   if (ntfyMatch) await sendNtfy(ntfyMatch[2].trim(), parseInt(ntfyMatch[1]))
+  else console.warn(`!! no ntfy block found in reason response for ${file}`)
 
   // --- Trim to rolling window (each window = 4 messages) ---
   const windowSize = 4
