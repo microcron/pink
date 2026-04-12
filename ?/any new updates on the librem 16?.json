@@ -1,1 +1,6 @@
-
+[
+  {
+    "date": "2026-04-12 20:40 UTC",
+    "response": "No new updates on the Librem 16 have been announced since the May 2024 prototype reveal, where Purism detailed its design featuring a backlit keyboard, RGB notification LED, hardware killswitches for camera/microphone and Wi-Fi/Bluetooth, UART and EC I2C debugging access, 32 MB BIOS flash, and an IT5570E embedded controller with dual-flash redundancy to prevent bricking.[1][2][3]\n\nOriginally planned for Q4 2024 availability, the device has not progressed to sales or further announcements by late 2025 or early 2026, with Purism's December 2025 product chart listing only the Librem 14 and Librem Mini as \"out of stock\" with new versions in development—no mention of Librem 16.[5]\n\nForum discussions through 2025 speculate on specs like PCIe support, DDR5 RAM, screen size, and WLAN hardware (e.g., potential Intel AX200), but these remain unconfirmed by Purism.[3][6]\n\nRecent Purism news from February 2026 focuses on PureOS Crimson beta for Librem 5 and general privacy topics, with no Librem 16 references.[4][7] Community threads show ongoing interest but no official developments.[3][6]"
+  }
+]
