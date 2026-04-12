@@ -1,3 +1,14 @@
 pink is going to be a cron workflow which notifies the user via ntfy (NTFY_URL secret includes topic) whenever there is fresh updates/news regarding their list of topics in the /? dir.
 
 OPENROUTER_KEY secret is provided.
+
+Foundation:
+The filenames in the ? dir are our queries for SEARCH_MODEL (excluding the .json extension).
+Everytime the workflow runs, we query SEARCH_MODEL for each filename, and add the latest response inside.
+We cut off the tail if longer than JSON_ROLLING_WINDOW.
+
+<3.json is our ungoing chat with REASON_MODEL. JSON_ROLLING_WINDOW also applies to <3.json.
+
+<3.json makeup:
+
+User: 
