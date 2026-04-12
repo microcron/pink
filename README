@@ -11,5 +11,5 @@ JSON Makeup (1 window):
 User: filename query
 Assistant: Date followed by SEARCH_MODEL response.
 User: REASON_MODEL_QUERY
-Assistant: REASON_MODEL_RESPONSE (ntfy call)
+Assistant: REASON_MODEL response (ntfy call)
 ... REPEAT
