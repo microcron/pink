@@ -30,5 +30,21 @@
   {
     "role": "assistant",
     "content": "```ntfy2\nNo credible new developments confirm NSA Mind Control programs as of April 2026. NSA remains focused on cybersecurity, including Russian GRU router exploits and Zero Trust guidelines. Historical CIA MKULTRA documents exist but involve no new revelations. Mind control claims remain unverified conspiracy theories.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new news regarding NSA Mind Control?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-04-12 21:54 UTC: No credible NSA mind control program exists; the only \"news\" is a satirical article presenting fictional claims.[2]\n\nThe search results contain one source—a Lawfare article—describing an alleged NSA program called \"MINDPRISM\" that supposedly extracts thoughts via dental implants and satellites.[2] However, this article is presented as satire, evidenced by absurdist details: it references \"buxom Ukrainian nurses Qadhafi was thinking about\" and claims \"Kim Jong Un really is obsessed with basketball\" as intelligence findings.[2] The article explicitly states it was published \"at the request of the NSA\" with technical details withheld, a hallmark of parody rather than genuine reporting.[2]\n\n**Actual recent NSA news** focuses on legitimate security matters: warnings about Russian GRU router exploits (April 7, 2026), Zero Trust Implementation Guidelines (January 30, 2026), and alerts about pro-Russia hacktivist groups targeting critical infrastructure (December 9, 2025).[4]\n\nThe only substantive mind control history involves the **CIA**, not the NSA. A December 23, 2024, scholarly collection documents the CIA's historical MKULTRA, BLUEBIRD, and ARTICHOKE programs, which conducted experiments using drugs, hypnosis, isolation, and sensory deprivation on human subjects.[1] This represents declassified past conduct, not new NSA developments.[1]\n\nDeclassified reports do show the NSA violated surveillance rules and conducted mass surveillance under Section 702, but these involve communications interception, not mind control.[5][6]"
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy2\nNo credible NSA Mind Control news exists as of April 2026. A Lawfare article describing \"MINDPRISM\" thought extraction via dental implants and satellites is confirmed satire. Real NSA news covers Russian GRU router exploits and Zero Trust guidelines. Historical mind control programs like MKULTRA involved the CIA, not NSA, with no new revelations.\n```"
   }
 ]

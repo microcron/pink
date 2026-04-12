@@ -30,5 +30,21 @@
   {
     "role": "assistant",
     "content": "ntfy3\nLibrem 16 Update: Purism confirmed Q2 2026 release window (April-June 2026) in their February 2026 newsletter. This is a delay from the original Q4 2024 target. Librem 14v2 is planned to follow the Librem 16 launch, and Librem Mini v3 is scheduled for Q4 2026."
+  },
+  {
+    "role": "user",
+    "content": "any new updates on the librem 16?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-04-12 21:54 UTC: **No new updates on the Librem 16 as of April 12, 2026.** The most recent information remains the February 2026 newsletter confirming the Q2 2026 release window (April-June), with Librem 14v2 to follow and Librem Mini v3 planned for Q4 2026.[2]\n\nRecent search results show no mentions of the Librem 16 in Purism's April 2026 PureOS changes mailing list (focused on Librem 5 kernel and phoc updates),[1] forum activity,[3][8] Crimson development reports,[4] or news pages.[9] Community discussions continue without official progress announcements.[3][8]"
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy"
+  },
+  {
+    "role": "assistant",
+    "content": "ntfy2\nLibrem 16 Status: No new updates as of April 12, 2026. Still on track for Q2 2026 release window per the February 2026 newsletter. No new announcements from Purism since then."
   }
 ]
