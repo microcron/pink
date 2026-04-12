@@ -14,5 +14,21 @@
   {
     "role": "assistant",
     "content": "```ntfy2\nNo credible new news exists regarding NSA Mind Control programs. Recent NSA updates focus on cybersecurity and leadership changes. Mind control claims remain unverified conspiracy theories.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new news regarding NSA Mind Control?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-04-12 21:46 UTC: No credible new developments confirm **NSA mind control** programs; claims remain unverified and tied to satire or historical CIA efforts.[1][2]\n\n**Key updates from search results (as of April 2026):**\n- NSA focuses on cybersecurity: Warnings about Russian GRU router exploits (April 7, 2026), Zero Trust guidelines (Jan. 30, 2026), and pro-Russia hacktivist threats (Dec. 9, 2025).[3][6]\n- Historical CIA context: A Dec. 23, 2024, collection details MKULTRA experiments (drugs, hypnosis, sensory deprivation) but involves CIA, not NSA, with no new revelations.[1]\n- Surveillance issues: Declassified reports note NSA privacy violations and Section 702 expansions (e.g., PRISM targeting 232k+ entities by 2021, incidental U.S. data collection), but no mind control evidence.[4][5]\n- Satirical claim: A \"Lawfare\" article describes fictional \"MINDPRISM\" (thought extraction via dental implants, satellites), presented as NSA-exclusive with hallmarks of parody (e.g., Qaddafi's nurses, Kim Jong Un's basketball).[2]\n- Other: Ex-NSA hacker interview covers cyber weapons and AI surveillance, without mind control mentions.[7]\n\nNo official NSA sources reference mind control; such narratives lack substantiation beyond conspiracy contexts.[3][6]"
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy2\nNo credible new developments confirm NSA Mind Control programs as of April 2026. NSA remains focused on cybersecurity, including Russian GRU router exploits and Zero Trust guidelines. Historical CIA MKULTRA documents exist but involve no new revelations. Mind control claims remain unverified conspiracy theories.\n```"
   }
 ]

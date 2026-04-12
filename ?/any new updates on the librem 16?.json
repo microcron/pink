@@ -14,5 +14,21 @@
   {
     "role": "assistant",
     "content": "ntfy3\nLibrem 16 Status Update: No new official updates since May 2024 prototype announcement. Originally planned for Q4 2024, but as of early 2026 it is not listed as available or in active development on Purism's product pages. Community forums remain speculative with no official Purism responses on progress."
+  },
+  {
+    "role": "user",
+    "content": "any new updates on the librem 16?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-04-12 21:47 UTC: The **Librem 16 is coming in Q2 2026**, according to Purism's February 2026 newsletter.[2] This represents a shift from the original Q4 2024 timeline, with the updated release window placing availability sometime between April and June 2026.\n\nFollowing the Librem 16 launch, Purism plans to release the **Librem 14v2**, though there is community uncertainty about whether it will share the same specifications as the Librem 16 (aside from screen size) or maintain the current Librem 14 specs.[2]\n\nAdditionally, **Librem Mini v3 is scheduled for Q4 2026** and will include all expected features previously requested by users.[2]\n\nBeyond the release timeline, no new technical specifications, detailed features, or additional updates on the Librem 16 have been announced since the February newsletter."
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy"
+  },
+  {
+    "role": "assistant",
+    "content": "ntfy3\nLibrem 16 Update: Purism confirmed Q2 2026 release window (April-June 2026) in their February 2026 newsletter. This is a delay from the original Q4 2024 target. Librem 14v2 is planned to follow the Librem 16 launch, and Librem Mini v3 is scheduled for Q4 2026."
   }
 ]
