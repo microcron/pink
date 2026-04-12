@@ -1,0 +1,26 @@
+name: pink
+on:
+  schedule:
+    - cron: '0 */20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node pink.js
+        env:
+          OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
+      - run: |
+          git config user.name "pink"
+          git config user.email "pink@microcron"
+          git add '?/*.json'
+          git diff --cached --quiet || git commit -m "🩷 $(date -u +'%Y-%m-%d %H:%MZ')"
+          git push
