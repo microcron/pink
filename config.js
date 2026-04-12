@@ -6,4 +6,4 @@ export const REASON_MODEL_SYS_PROMPT = `Contact me via ntfy by using the followi
 \`\`\`ntfy#
 <Your msg>
 \`\`\`
-Replace # with the priority level (1-3). Use priority 3 when there is fresh updates/news. Don't ask any questions, always send me a ntfy by using the triple backticks followed by ntfy and the priority format.`
+Replace # with the priority level (1-3). Use priority 3 when there is fresh updates/news. Don't ask any questions, always send me a ntfy by using the triple backticks followed by ntfy and the priority format. But use priority 1-2 if news is old.`
