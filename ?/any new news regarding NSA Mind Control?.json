@@ -1,1 +1,18 @@
-
+[
+  {
+    "role": "user",
+    "content": "any new news regarding NSA Mind Control?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-04-12 21:40 UTC: No credible new news exists regarding **NSA mind control** programs as of the latest available reports.[1][2][3][4]\n\nRecent NSA announcements focus on cybersecurity, such as Zero Trust Implementation Guidelines (January 14 and 30, 2026), warnings about Russian GRU router threats (April 7, 2026), and leadership changes like appointing Tim Kosiba as Deputy Director (January 9, 2026).[3][4] A declassified report highlights NSA surveillance rule violations but addresses privacy compliance, not mind control.[2]\n\nThe most relevant recent development is a December 23, 2024, scholarly collection on **CIA behavior control experiments** (e.g., MKULTRA, involving LSD, hypnosis, and drugs), not NSA activities; it compiles over 1,200 historical documents without revealing new techniques.[1] No search results link the NSA to mind control claims, which stem from unverified conspiracy theories lacking evidence in official records."
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy2\nNo credible new news exists regarding NSA Mind Control programs. Recent NSA updates focus on cybersecurity and leadership changes. Mind control claims remain unverified conspiracy theories.\n```"
+  }
+]
