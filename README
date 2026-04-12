@@ -7,8 +7,9 @@ The filenames in the ? dir are our queries for SEARCH_MODEL (excluding the .json
 Everytime the workflow runs, we query SEARCH_MODEL for each filename, and add the latest response inside.
 We cut off the tail if longer than JSON_ROLLING_WINDOW.
 
-<3.json is our ungoing chat with REASON_MODEL. JSON_ROLLING_WINDOW also applies to <3.json.
-
-<3.json makeup:
-
-User: 
+JSON Makeup:
+User: filename query
+Assistant: Date followed by SEARCH_MODEL response.
+User: REASON_MODEL_QUERY
+Assistant: REASON_MODEL_RESPONSE (ntfy call)
+... REPEAT
