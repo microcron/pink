@@ -14,5 +14,21 @@
   {
     "role": "assistant",
     "content": "```ntfy3\nLibrem 16 Update: No progress since mid-2024 prototype announcement. Originally slated for Q4 2024, the laptop has disappeared from Purism's 2025-2026 updates and product charts. Only the Librem 14 mentioned for future development. Appears shelved or indefinitely delayed.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new updates on the librem 16?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-04-12 22:11 UTC: **Librem 16 is now expected in Q2 2026 (April-June), per Purism's February 2026 newsletter.**\n\nThis updates prior timelines, which had it pegged for Q4 2024 with prototypes announced in mid-2024; no further specs, shipping dates, or pricing details have been released since.[3]\n\nPurism's April 2026 activity centers on PureOS Crimson updates (e.g., linux-librem5 kernel patches, librem11-base packages) and Librem 5 tweaks, with no Librem 16 mentions in recent forums, news, or PureOS changes.[1][2][4][6][7]\n\nLibrem 14 v2 follows the Librem 16 release with \"same specs you will love\" (ambiguous if matching Librem 14 v1 or Librem 16), and Librem Mini v3 is slated for Q4 2026.[3] No new forum threads, LINMOB updates, or Purism news through April 12, 2026, confirm progress.[2][3][5][6]"
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy2\nLibrem 16 Update: Purism's February 2026 newsletter targets Q2 2026 (April-June) release. No new specs, pricing, or shipping details confirmed. Librem 14 v2 follows after, with Librem Mini v3 slated for Q4 2026. No recent forum or news activity to confirm progress.\n```"
   }
 ]

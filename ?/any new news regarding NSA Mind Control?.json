@@ -5,22 +5,6 @@
   },
   {
     "role": "assistant",
-    "content": "2026-04-12 21:54 UTC: No credible NSA mind control program exists; the only \"news\" is a satirical article presenting fictional claims.[2]\n\nThe search results contain one source—a Lawfare article—describing an alleged NSA program called \"MINDPRISM\" that supposedly extracts thoughts via dental implants and satellites.[2] However, this article is presented as satire, evidenced by absurdist details: it references \"buxom Ukrainian nurses Qadhafi was thinking about\" and claims \"Kim Jong Un really is obsessed with basketball\" as intelligence findings.[2] The article explicitly states it was published \"at the request of the NSA\" with technical details withheld, a hallmark of parody rather than genuine reporting.[2]\n\n**Actual recent NSA news** focuses on legitimate security matters: warnings about Russian GRU router exploits (April 7, 2026), Zero Trust Implementation Guidelines (January 30, 2026), and alerts about pro-Russia hacktivist groups targeting critical infrastructure (December 9, 2025).[4]\n\nThe only substantive mind control history involves the **CIA**, not the NSA. A December 23, 2024, scholarly collection documents the CIA's historical MKULTRA, BLUEBIRD, and ARTICHOKE programs, which conducted experiments using drugs, hypnosis, isolation, and sensory deprivation on human subjects.[1] This represents declassified past conduct, not new NSA developments.[1]\n\nDeclassified reports do show the NSA violated surveillance rules and conducted mass surveillance under Section 702, but these involve communications interception, not mind control.[5][6]"
-  },
-  {
-    "role": "user",
-    "content": "Send me a ntfy"
-  },
-  {
-    "role": "assistant",
-    "content": "```ntfy2\nNo credible NSA Mind Control news exists as of April 2026. A Lawfare article describing \"MINDPRISM\" thought extraction via dental implants and satellites is confirmed satire. Real NSA news covers Russian GRU router exploits and Zero Trust guidelines. Historical mind control programs like MKULTRA involved the CIA, not NSA, with no new revelations.\n```"
-  },
-  {
-    "role": "user",
-    "content": "any new news regarding NSA Mind Control?"
-  },
-  {
-    "role": "assistant",
     "content": "2026-04-12 21:59 UTC: No credible new news exists on **NSA mind control** programs as of April 2026; such claims remain unsubstantiated and absent from official intelligence reports.[2][3][4]\n\n**Recent NSA and intelligence community highlights:**\n- NSA cybersecurity advisories on Russian GRU exploiting vulnerable routers (April 7, 2026) and Zero Trust Implementation Guidelines phases one and two.[4]\n- DNI Tulsi Gabbard's 2026 Annual Threat Assessment (March 2026) addresses global threats, AI advancements, and the need for human control over AI, with input from NSA, CIA, DIA, and FBI directors—no mention of mind control.[3]\n- Ongoing Section 702 surveillance concerns: Trump-era control of NSA/FBI warrantless monitoring of foreigners (with U.S. incidental collection) and declassified reports of NSA rule violations, focusing on communications interception, not mind control.[2][5]\n- NSA Winter Conference (Jan. 31–Feb. 4, 2026) covers law enforcement topics like commerce and prostitution, unrelated to the query.[1]\n\nA declassified NSA document on \"Communication with Extraterrestrial Intelligence\" speculates on alien signals but does not reference mind control or human programs.[6] No sources link the NSA to mind control; related historical experiments (e.g., MKULTRA) involved the CIA exclusively.[2]"
   },
   {
@@ -46,5 +30,21 @@
   {
     "role": "assistant",
     "content": "```ntfy1\nNo credible NSA Mind Control news exists. Recent NSA activity (April 2026): Russian GRU router exploit warnings, Zero Trust guidelines, satellite comms security with Australian Signals Directorate, and Section 702 surveillance debate. All focus on cybersecurity and communications interception. Mind control claims remain unsubstantiated conspiracy theories with no official evidence.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new news regarding NSA Mind Control?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-04-12 22:11 UTC: There is no credible news regarding NSA mind control programs. No such programs exist in any official NSA announcements, declassified reports, or legitimate news coverage.\n\n**Recent NSA news** focuses exclusively on cybersecurity and surveillance:\n\n- **Russian threat alerts**: The NSA and FBI co-issued a public service announcement (April 7, 2026) warning of Russian GRU exploiting vulnerable routers to steal sensitive information.[1]\n- **Zero Trust guidelines**: The NSA released Phase One and Phase Two of Zero Trust Implementation Guidelines to help organizations achieve target-level cybersecurity maturity.[1]\n- **International collaboration**: The NSA partnered with the Australian Signals Directorate on a cybersecurity information sheet for low earth orbit satellite communications (March 24, 2026).[1]\n- **Cyber policy discussion**: Four former NSA directors convened (March 24, 2026) at the RSA Conference to discuss American offensive cyber capabilities, deterrence in cyberspace, and the role of autonomous AI agents in cyber warfare.[4][7]\n- **Section 702 reauthorization**: With Section 702 expiring in April 2026, debate continues over mass surveillance authority that allows the NSA to collect communications from non-Americans outside the U.S., with acknowledged incidental collection of American communications.[2][3]\n- **Compliance violations**: Declassified reports document past NSA surveillance rule violations involving communications interception, not mind control.[5]\n\nMind control narratives remain unsubstantiated conspiracy theories without any basis in official intelligence community documentation."
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy1\nStill no credible NSA Mind Control news as of April 2026. Latest NSA updates: Russian GRU router exploit warnings (April 7), Zero Trust guidelines, satellite comms security partnership with Australian Signals Directorate (March 24), four former NSA directors discussing cyber warfare at RSA Conference, and Section 702 reauthorization debate. All activity remains focused on cybersecurity and communications surveillance. Mind control claims remain unsubstantiated.\n```"
   }
 ]
