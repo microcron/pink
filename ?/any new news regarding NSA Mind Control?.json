@@ -5,22 +5,6 @@
   },
   {
     "role": "assistant",
-    "content": "2026-04-12 21:46 UTC: No credible new developments confirm **NSA mind control** programs; claims remain unverified and tied to satire or historical CIA efforts.[1][2]\n\n**Key updates from search results (as of April 2026):**\n- NSA focuses on cybersecurity: Warnings about Russian GRU router exploits (April 7, 2026), Zero Trust guidelines (Jan. 30, 2026), and pro-Russia hacktivist threats (Dec. 9, 2025).[3][6]\n- Historical CIA context: A Dec. 23, 2024, collection details MKULTRA experiments (drugs, hypnosis, sensory deprivation) but involves CIA, not NSA, with no new revelations.[1]\n- Surveillance issues: Declassified reports note NSA privacy violations and Section 702 expansions (e.g., PRISM targeting 232k+ entities by 2021, incidental U.S. data collection), but no mind control evidence.[4][5]\n- Satirical claim: A \"Lawfare\" article describes fictional \"MINDPRISM\" (thought extraction via dental implants, satellites), presented as NSA-exclusive with hallmarks of parody (e.g., Qaddafi's nurses, Kim Jong Un's basketball).[2]\n- Other: Ex-NSA hacker interview covers cyber weapons and AI surveillance, without mind control mentions.[7]\n\nNo official NSA sources reference mind control; such narratives lack substantiation beyond conspiracy contexts.[3][6]"
-  },
-  {
-    "role": "user",
-    "content": "Send me a ntfy"
-  },
-  {
-    "role": "assistant",
-    "content": "```ntfy2\nNo credible new developments confirm NSA Mind Control programs as of April 2026. NSA remains focused on cybersecurity, including Russian GRU router exploits and Zero Trust guidelines. Historical CIA MKULTRA documents exist but involve no new revelations. Mind control claims remain unverified conspiracy theories.\n```"
-  },
-  {
-    "role": "user",
-    "content": "any new news regarding NSA Mind Control?"
-  },
-  {
-    "role": "assistant",
     "content": "2026-04-12 21:54 UTC: No credible NSA mind control program exists; the only \"news\" is a satirical article presenting fictional claims.[2]\n\nThe search results contain one source—a Lawfare article—describing an alleged NSA program called \"MINDPRISM\" that supposedly extracts thoughts via dental implants and satellites.[2] However, this article is presented as satire, evidenced by absurdist details: it references \"buxom Ukrainian nurses Qadhafi was thinking about\" and claims \"Kim Jong Un really is obsessed with basketball\" as intelligence findings.[2] The article explicitly states it was published \"at the request of the NSA\" with technical details withheld, a hallmark of parody rather than genuine reporting.[2]\n\n**Actual recent NSA news** focuses on legitimate security matters: warnings about Russian GRU router exploits (April 7, 2026), Zero Trust Implementation Guidelines (January 30, 2026), and alerts about pro-Russia hacktivist groups targeting critical infrastructure (December 9, 2025).[4]\n\nThe only substantive mind control history involves the **CIA**, not the NSA. A December 23, 2024, scholarly collection documents the CIA's historical MKULTRA, BLUEBIRD, and ARTICHOKE programs, which conducted experiments using drugs, hypnosis, isolation, and sensory deprivation on human subjects.[1] This represents declassified past conduct, not new NSA developments.[1]\n\nDeclassified reports do show the NSA violated surveillance rules and conducted mass surveillance under Section 702, but these involve communications interception, not mind control.[5][6]"
   },
   {
@@ -46,5 +30,21 @@
   {
     "role": "assistant",
     "content": "```ntfy1\nNo credible new NSA Mind Control news as of April 2026. Recent NSA updates: Russian GRU router exploits (April 7), Zero Trust guidelines, and DNI Tulsi Gabbard's Threat Assessment (March 2026) covering AI and global threats—no mind control mentions. Section 702 surveillance continues but involves communications interception only. Mind control claims remain unsubstantiated.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new news regarding NSA Mind Control?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-04-12 22:07 UTC: There is no credible news regarding NSA mind control programs. Such claims do not appear in any official NSA announcements, declassified reports, or legitimate news coverage.\n\n**Recent NSA news** focuses exclusively on cybersecurity and surveillance oversight:\n\n- **Russian threat alerts**: NSA and FBI co-issued a public service announcement (April 7, 2026) warning of Russian GRU exploiting vulnerable routers to steal sensitive information.[1]\n- **Zero Trust guidelines**: NSA released Phase One and Phase Two of Zero Trust Implementation Guidelines to help organizations improve cybersecurity standards.[1][7]\n- **International collaboration**: NSA partnered with the Australian Signals Directorate and other agencies on satellite communications security (March 24, 2026).[1]\n- **Cyber policy debate**: Four NSA directors convened (March 24, 2026) to discuss American offensive cyber warfare capabilities and autonomous AI agents.[2]\n- **Surveillance concerns**: Ongoing discussions about Section 702 reauthorization (expiring April 2026) focus on warrantless surveillance of communications and FBI's use of the law for domestic law enforcement without warrants.[4][5]\n- **Compliance violations**: Declassified reports document past NSA surveillance rule violations but involve communications interception, not mind control.[6]\n\nMind control narratives are conspiracy theories without substantiation in official intelligence community reports or credible journalism."
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy1\nNo credible NSA Mind Control news exists. Recent NSA activity (April 2026): Russian GRU router exploit warnings, Zero Trust guidelines, satellite comms security with Australian Signals Directorate, and Section 702 surveillance debate. All focus on cybersecurity and communications interception. Mind control claims remain unsubstantiated conspiracy theories with no official evidence.\n```"
   }
 ]
