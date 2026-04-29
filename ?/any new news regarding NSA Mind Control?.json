@@ -5,22 +5,6 @@
   },
   {
     "role": "assistant",
-    "content": "2026-04-12 21:59 UTC: No credible new news exists on **NSA mind control** programs as of April 2026; such claims remain unsubstantiated and absent from official intelligence reports.[2][3][4]\n\n**Recent NSA and intelligence community highlights:**\n- NSA cybersecurity advisories on Russian GRU exploiting vulnerable routers (April 7, 2026) and Zero Trust Implementation Guidelines phases one and two.[4]\n- DNI Tulsi Gabbard's 2026 Annual Threat Assessment (March 2026) addresses global threats, AI advancements, and the need for human control over AI, with input from NSA, CIA, DIA, and FBI directors—no mention of mind control.[3]\n- Ongoing Section 702 surveillance concerns: Trump-era control of NSA/FBI warrantless monitoring of foreigners (with U.S. incidental collection) and declassified reports of NSA rule violations, focusing on communications interception, not mind control.[2][5]\n- NSA Winter Conference (Jan. 31–Feb. 4, 2026) covers law enforcement topics like commerce and prostitution, unrelated to the query.[1]\n\nA declassified NSA document on \"Communication with Extraterrestrial Intelligence\" speculates on alien signals but does not reference mind control or human programs.[6] No sources link the NSA to mind control; related historical experiments (e.g., MKULTRA) involved the CIA exclusively.[2]"
-  },
-  {
-    "role": "user",
-    "content": "Send me a ntfy"
-  },
-  {
-    "role": "assistant",
-    "content": "```ntfy1\nNo credible new NSA Mind Control news as of April 2026. Recent NSA updates: Russian GRU router exploits (April 7), Zero Trust guidelines, and DNI Tulsi Gabbard's Threat Assessment (March 2026) covering AI and global threats—no mind control mentions. Section 702 surveillance continues but involves communications interception only. Mind control claims remain unsubstantiated.\n```"
-  },
-  {
-    "role": "user",
-    "content": "any new news regarding NSA Mind Control?"
-  },
-  {
-    "role": "assistant",
     "content": "2026-04-12 22:07 UTC: There is no credible news regarding NSA mind control programs. Such claims do not appear in any official NSA announcements, declassified reports, or legitimate news coverage.\n\n**Recent NSA news** focuses exclusively on cybersecurity and surveillance oversight:\n\n- **Russian threat alerts**: NSA and FBI co-issued a public service announcement (April 7, 2026) warning of Russian GRU exploiting vulnerable routers to steal sensitive information.[1]\n- **Zero Trust guidelines**: NSA released Phase One and Phase Two of Zero Trust Implementation Guidelines to help organizations improve cybersecurity standards.[1][7]\n- **International collaboration**: NSA partnered with the Australian Signals Directorate and other agencies on satellite communications security (March 24, 2026).[1]\n- **Cyber policy debate**: Four NSA directors convened (March 24, 2026) to discuss American offensive cyber warfare capabilities and autonomous AI agents.[2]\n- **Surveillance concerns**: Ongoing discussions about Section 702 reauthorization (expiring April 2026) focus on warrantless surveillance of communications and FBI's use of the law for domestic law enforcement without warrants.[4][5]\n- **Compliance violations**: Declassified reports document past NSA surveillance rule violations but involve communications interception, not mind control.[6]\n\nMind control narratives are conspiracy theories without substantiation in official intelligence community reports or credible journalism."
   },
   {
@@ -46,5 +30,21 @@
   {
     "role": "assistant",
     "content": "```ntfy1\nStill no credible NSA Mind Control news as of April 2026. Latest NSA updates: Russian GRU router exploit warnings (April 7), Zero Trust guidelines, satellite comms security partnership with Australian Signals Directorate (March 24), four former NSA directors discussing cyber warfare at RSA Conference, and Section 702 reauthorization debate. All activity remains focused on cybersecurity and communications surveillance. Mind control claims remain unsubstantiated.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new news regarding NSA Mind Control?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-04-29 01:44 UTC: No credible new news exists regarding **NSA mind control** programs as of late April 2026. No official NSA or intelligence community sources reference any such programs, which remain unsubstantiated conspiracy claims.\n\n**Key points from recent search results:**\n- Historical CIA programs like **MKUltra** (1950s–1970s) involved illegal human experiments with LSD, hypnosis, and behavioral manipulation for interrogation and truth serums, but these were CIA-led, not NSA, and officially ended decades ago.[2]\n- A February 2026 blog post alleges ongoing CIA \"mass mind control\" over Congress via a whistleblower, linking it to MKUltra revival and fringe theories like alien tech and vaccine \"operating systems,\" but this originates from a low-credibility conspiracy site without verifiable evidence.[1]\n- A July 2025 podcast discusses CIA experiments inspired by Korean War POW \"brainwashing\" fears, including failed attempts at psyche breakdown and reprogramming, confirming they did not succeed and were CIA projects.[3]\n- No NSA connections appear; recent NSA topics include cybersecurity alerts and unrelated declassified documents on extraterrestrial signals.[5]\n\nClaims of active NSA or CIA mind control lack substantiation in declassified records or mainstream reporting, stemming instead from historical abuses and speculation.[2][3]"
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy, u can look up online again"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy1\nNo credible NSA Mind Control news as of April 29, 2026. Historical CIA MKUltra experiments (1950s-70s) are well-documented but were CIA-led, not NSA, and officially ended decades ago. A Feb 2026 fringe blog alleges CIA \"mass mind control\" over Congress via whistleblower but lacks verifiable evidence. No NSA connections found. Recent NSA activity focuses on cybersecurity advisories and Zero Trust guidelines. Mind control claims remain unsubstantiated conspiracy theories.\n```"
   }
 ]
