@@ -5,22 +5,6 @@
   },
   {
     "role": "assistant",
-    "content": "2026-04-12 22:07 UTC: There is no credible news regarding NSA mind control programs. Such claims do not appear in any official NSA announcements, declassified reports, or legitimate news coverage.\n\n**Recent NSA news** focuses exclusively on cybersecurity and surveillance oversight:\n\n- **Russian threat alerts**: NSA and FBI co-issued a public service announcement (April 7, 2026) warning of Russian GRU exploiting vulnerable routers to steal sensitive information.[1]\n- **Zero Trust guidelines**: NSA released Phase One and Phase Two of Zero Trust Implementation Guidelines to help organizations improve cybersecurity standards.[1][7]\n- **International collaboration**: NSA partnered with the Australian Signals Directorate and other agencies on satellite communications security (March 24, 2026).[1]\n- **Cyber policy debate**: Four NSA directors convened (March 24, 2026) to discuss American offensive cyber warfare capabilities and autonomous AI agents.[2]\n- **Surveillance concerns**: Ongoing discussions about Section 702 reauthorization (expiring April 2026) focus on warrantless surveillance of communications and FBI's use of the law for domestic law enforcement without warrants.[4][5]\n- **Compliance violations**: Declassified reports document past NSA surveillance rule violations but involve communications interception, not mind control.[6]\n\nMind control narratives are conspiracy theories without substantiation in official intelligence community reports or credible journalism."
-  },
-  {
-    "role": "user",
-    "content": "Send me a ntfy"
-  },
-  {
-    "role": "assistant",
-    "content": "```ntfy1\nNo credible NSA Mind Control news exists. Recent NSA activity (April 2026): Russian GRU router exploit warnings, Zero Trust guidelines, satellite comms security with Australian Signals Directorate, and Section 702 surveillance debate. All focus on cybersecurity and communications interception. Mind control claims remain unsubstantiated conspiracy theories with no official evidence.\n```"
-  },
-  {
-    "role": "user",
-    "content": "any new news regarding NSA Mind Control?"
-  },
-  {
-    "role": "assistant",
     "content": "2026-04-12 22:11 UTC: There is no credible news regarding NSA mind control programs. No such programs exist in any official NSA announcements, declassified reports, or legitimate news coverage.\n\n**Recent NSA news** focuses exclusively on cybersecurity and surveillance:\n\n- **Russian threat alerts**: The NSA and FBI co-issued a public service announcement (April 7, 2026) warning of Russian GRU exploiting vulnerable routers to steal sensitive information.[1]\n- **Zero Trust guidelines**: The NSA released Phase One and Phase Two of Zero Trust Implementation Guidelines to help organizations achieve target-level cybersecurity maturity.[1]\n- **International collaboration**: The NSA partnered with the Australian Signals Directorate on a cybersecurity information sheet for low earth orbit satellite communications (March 24, 2026).[1]\n- **Cyber policy discussion**: Four former NSA directors convened (March 24, 2026) at the RSA Conference to discuss American offensive cyber capabilities, deterrence in cyberspace, and the role of autonomous AI agents in cyber warfare.[4][7]\n- **Section 702 reauthorization**: With Section 702 expiring in April 2026, debate continues over mass surveillance authority that allows the NSA to collect communications from non-Americans outside the U.S., with acknowledged incidental collection of American communications.[2][3]\n- **Compliance violations**: Declassified reports document past NSA surveillance rule violations involving communications interception, not mind control.[5]\n\nMind control narratives remain unsubstantiated conspiracy theories without any basis in official intelligence community documentation."
   },
   {
@@ -46,5 +30,21 @@
   {
     "role": "assistant",
     "content": "```ntfy1\nNo credible NSA Mind Control news as of April 29, 2026. Historical CIA MKUltra experiments (1950s-70s) are well-documented but were CIA-led, not NSA, and officially ended decades ago. A Feb 2026 fringe blog alleges CIA \"mass mind control\" over Congress via whistleblower but lacks verifiable evidence. No NSA connections found. Recent NSA activity focuses on cybersecurity advisories and Zero Trust guidelines. Mind control claims remain unsubstantiated conspiracy theories.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new news regarding NSA Mind Control?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-05-01 01:45 UTC: **No credible new news on NSA Mind Control** exists as of May 1, 2026. Claims of such programs are unsubstantiated and typically stem from historical CIA projects or fabricated reports.\n\n**Key findings from latest sources:**\n- A December 2024 scholarly collection details CIA's **MKULTRA**, **BLUEBIRD**, and **ARTICHOKE** programs (1950s–1970s), involving drugs, hypnosis, and sensory deprivation on unwitting subjects for behavior control; these were CIA-led, not NSA, and ended decades ago.[1]\n- A Lawfare article describes a fictional \"MINDPRISM\" NSA program for \"thought collection\" via dental implants and satellites; this is satirical or fabricated (noted by its absurd details like Qadhafi and Kim Jong Un's thoughts), with no corroboration from official sources.[2]\n- Recent legitimate NSA news includes using Anthropic's Mythos AI model[3], cybersecurity advisories against China-nexus networks (April 23, 2026)[4], new Deputy Director announcement (January 9, 2026)[4], and short-term Section 702 surveillance extension (April 17, 2026).[5]\n\nNSA's actual focus remains on signals intelligence, cybersecurity (e.g., PRISM under Section 702 for foreign communications), and AI tools, with no evidence of mind control in official documents.[6][7]"
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy, u can look up online again"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy1\nNo credible NSA Mind Control news as of May 1, 2026. Key updates: A satirical/fabricated \"MINDPRISM\" article describes fictional NSA thought collection via dental implants - not real. Historical CIA MKUltra/Bluebird/Artichoke programs (1950s-70s) were CIA-led, not NSA, and ended decades ago. Actual NSA news: adopting Anthropic's Mythos AI model, cybersecurity advisories against China-nexus networks (April 23), new Deputy Director (Jan 9), and Section 702 short-term extension (April 17). Mind control claims remain unsubstantiated.\n```"
   }
 ]
