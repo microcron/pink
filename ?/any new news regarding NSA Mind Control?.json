@@ -5,22 +5,6 @@
   },
   {
     "role": "assistant",
-    "content": "2026-04-29 01:44 UTC: No credible new news exists regarding **NSA mind control** programs as of late April 2026. No official NSA or intelligence community sources reference any such programs, which remain unsubstantiated conspiracy claims.\n\n**Key points from recent search results:**\n- Historical CIA programs like **MKUltra** (1950s–1970s) involved illegal human experiments with LSD, hypnosis, and behavioral manipulation for interrogation and truth serums, but these were CIA-led, not NSA, and officially ended decades ago.[2]\n- A February 2026 blog post alleges ongoing CIA \"mass mind control\" over Congress via a whistleblower, linking it to MKUltra revival and fringe theories like alien tech and vaccine \"operating systems,\" but this originates from a low-credibility conspiracy site without verifiable evidence.[1]\n- A July 2025 podcast discusses CIA experiments inspired by Korean War POW \"brainwashing\" fears, including failed attempts at psyche breakdown and reprogramming, confirming they did not succeed and were CIA projects.[3]\n- No NSA connections appear; recent NSA topics include cybersecurity alerts and unrelated declassified documents on extraterrestrial signals.[5]\n\nClaims of active NSA or CIA mind control lack substantiation in declassified records or mainstream reporting, stemming instead from historical abuses and speculation.[2][3]"
-  },
-  {
-    "role": "user",
-    "content": "Send me a ntfy, u can look up online again"
-  },
-  {
-    "role": "assistant",
-    "content": "```ntfy1\nNo credible NSA Mind Control news as of April 29, 2026. Historical CIA MKUltra experiments (1950s-70s) are well-documented but were CIA-led, not NSA, and officially ended decades ago. A Feb 2026 fringe blog alleges CIA \"mass mind control\" over Congress via whistleblower but lacks verifiable evidence. No NSA connections found. Recent NSA activity focuses on cybersecurity advisories and Zero Trust guidelines. Mind control claims remain unsubstantiated conspiracy theories.\n```"
-  },
-  {
-    "role": "user",
-    "content": "any new news regarding NSA Mind Control?"
-  },
-  {
-    "role": "assistant",
     "content": "2026-05-01 01:45 UTC: **No credible new news on NSA Mind Control** exists as of May 1, 2026. Claims of such programs are unsubstantiated and typically stem from historical CIA projects or fabricated reports.\n\n**Key findings from latest sources:**\n- A December 2024 scholarly collection details CIA's **MKULTRA**, **BLUEBIRD**, and **ARTICHOKE** programs (1950s–1970s), involving drugs, hypnosis, and sensory deprivation on unwitting subjects for behavior control; these were CIA-led, not NSA, and ended decades ago.[1]\n- A Lawfare article describes a fictional \"MINDPRISM\" NSA program for \"thought collection\" via dental implants and satellites; this is satirical or fabricated (noted by its absurd details like Qadhafi and Kim Jong Un's thoughts), with no corroboration from official sources.[2]\n- Recent legitimate NSA news includes using Anthropic's Mythos AI model[3], cybersecurity advisories against China-nexus networks (April 23, 2026)[4], new Deputy Director announcement (January 9, 2026)[4], and short-term Section 702 surveillance extension (April 17, 2026).[5]\n\nNSA's actual focus remains on signals intelligence, cybersecurity (e.g., PRISM under Section 702 for foreign communications), and AI tools, with no evidence of mind control in official documents.[6][7]"
   },
   {
@@ -46,5 +30,21 @@
   {
     "role": "assistant",
     "content": "```ntfy1\nNo credible NSA Mind Control news as of May 3, 2026. Same findings as before: CIA MKUltra/Bluebird/Artichoke (1950s-70s) were CIA-only and ended decades ago. Fictional \"MINDPRISM\" article remains satirical/fabricated. Actual recent NSA activity: \"Careful Adoption of Agentic AI Services\" guidance (April 30), China-nexus advisory (April 23), Zero Trust guidelines, Anthropic Mythos AI adoption, Section 702 surveillance extension. NSA mandate remains signals intelligence and cybersecurity. No evidence of mind control programs.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new news regarding NSA Mind Control?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-05-05 01:26 UTC: No credible new news on **NSA Mind Control** as of May 5, 2026. Current developments center exclusively on Section 702 surveillance extensions, with no references to mind control in official or recent reporting.\n\n**Key updates from latest sources:**\n- **Section 702 of FISA**: Congress passed short-term extensions on April 17 (to April 30) and April 29 (stopgap amid failed longer renewals), allowing NSA to collect foreign nationals' electronic communications abroad without warrants; this incidentally captures Americans' data, enabling warrantless FBI searches (e.g., on protesters, journalists, donors).[1][2][5][6][7]\n- NSA stopped collecting certain \"about\" communications (internet mentions of targets) under Section 702 upstream surveillance after reviewing privacy and tech constraints.[4]\n- Ongoing debates highlight abuses: FBI queried Americans' data without warrants; no reforms in proposals like Johnson's (April 23).[6]\n- **2026 Annual Threat Assessment**: Released by DNI Gabbard, covering general IC threats; no mind control mentions.[3]\n\nNSA's activities remain focused on **signals intelligence** under FISA, with privacy concerns limited to data collection/retention, not behavioral or mind control programs. Historical CIA MKUltra claims persist in unrelated contexts but have no NSA ties.[6]"
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy, u can look up online again"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy1\nNo credible NSA Mind Control news as of May 5, 2026. Latest NSA developments: Section 702 FISA stopgap extension (April 29) after failed longer renewal; NSA halted \"about\" communications collection under upstream surveillance citing privacy/tech constraints; FBI warrantless queries of Americans' data continue without reform; DNI Gabbard released 2026 Annual Threat Assessment with no mind control references. NSA focus remains signals intelligence and cybersecurity. No evidence of mind control programs in any official or credible sources. Old news - no changes from previous updates.\n```"
   }
 ]
