@@ -5,22 +5,6 @@
   },
   {
     "role": "assistant",
-    "content": "2026-05-01 01:45 UTC: **No credible new news on NSA Mind Control** exists as of May 1, 2026. Claims of such programs are unsubstantiated and typically stem from historical CIA projects or fabricated reports.\n\n**Key findings from latest sources:**\n- A December 2024 scholarly collection details CIA's **MKULTRA**, **BLUEBIRD**, and **ARTICHOKE** programs (1950s–1970s), involving drugs, hypnosis, and sensory deprivation on unwitting subjects for behavior control; these were CIA-led, not NSA, and ended decades ago.[1]\n- A Lawfare article describes a fictional \"MINDPRISM\" NSA program for \"thought collection\" via dental implants and satellites; this is satirical or fabricated (noted by its absurd details like Qadhafi and Kim Jong Un's thoughts), with no corroboration from official sources.[2]\n- Recent legitimate NSA news includes using Anthropic's Mythos AI model[3], cybersecurity advisories against China-nexus networks (April 23, 2026)[4], new Deputy Director announcement (January 9, 2026)[4], and short-term Section 702 surveillance extension (April 17, 2026).[5]\n\nNSA's actual focus remains on signals intelligence, cybersecurity (e.g., PRISM under Section 702 for foreign communications), and AI tools, with no evidence of mind control in official documents.[6][7]"
-  },
-  {
-    "role": "user",
-    "content": "Send me a ntfy, u can look up online again"
-  },
-  {
-    "role": "assistant",
-    "content": "```ntfy1\nNo credible NSA Mind Control news as of May 1, 2026. Key updates: A satirical/fabricated \"MINDPRISM\" article describes fictional NSA thought collection via dental implants - not real. Historical CIA MKUltra/Bluebird/Artichoke programs (1950s-70s) were CIA-led, not NSA, and ended decades ago. Actual NSA news: adopting Anthropic's Mythos AI model, cybersecurity advisories against China-nexus networks (April 23), new Deputy Director (Jan 9), and Section 702 short-term extension (April 17). Mind control claims remain unsubstantiated.\n```"
-  },
-  {
-    "role": "user",
-    "content": "any new news regarding NSA Mind Control?"
-  },
-  {
-    "role": "assistant",
     "content": "2026-05-03 01:27 UTC: No credible new news on **NSA Mind Control** as of May 3, 2026. All relevant search results reiterate historical CIA programs or unrelated NSA activities, with no evidence of active NSA involvement in mind control.\n\n**Key updates from latest sources:**\n- **CIA MKULTRA/Bluebird/Artichoke** (1950s–1970s): A December 2024 National Security Archive collection details over 1,200 declassified documents on CIA experiments using drugs, hypnosis, electroshocks, and sensory deprivation on unwitting subjects to erase/reprogram minds; these were CIA-only, ended decades ago, despite purge attempts.[1]\n- **\"MINDPRISM\" claim**: Lawfare describes a fictional NSA program allegedly capturing thoughts via dental implants and satellites (e.g., collecting thoughts from Qadhafi, Kim Jong Un); technical absurdities and satirical tone indicate fabrication, not reality.[2]\n- **Actual NSA news** (April 30, 2026): Released \"Careful Adoption of Agentic AI Services\" guidance with Australian partners; April 23 advisory on China-nexus compromised devices; Zero Trust Implementation Guidelines Phases One/Two.[4]\n- **Section 702/PRISM**: Ongoing mass surveillance of foreign communications via U.S. tech firms like Google/Microsoft, incidentally collecting U.S. persons' data; FBI has abused \"backdoor searches\" on Americans (e.g., journalists, Congress members).[5]\n- **AI use**: NSA adopted Anthropic's Mythos AI model despite Pentagon supply chain risks.[3]\n\nNSA's mandate centers on **signals intelligence** and cybersecurity, not behavioral or mind control.[6] No developments support mind control allegations."
   },
   {
@@ -46,5 +30,21 @@
   {
     "role": "assistant",
     "content": "```ntfy1\nNo credible NSA Mind Control news as of May 5, 2026. Latest NSA developments: Section 702 FISA stopgap extension (April 29) after failed longer renewal; NSA halted \"about\" communications collection under upstream surveillance citing privacy/tech constraints; FBI warrantless queries of Americans' data continue without reform; DNI Gabbard released 2026 Annual Threat Assessment with no mind control references. NSA focus remains signals intelligence and cybersecurity. No evidence of mind control programs in any official or credible sources. Old news - no changes from previous updates.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new news regarding NSA Mind Control?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-05-07 01:29 UTC: 2026-05-07 01:30 UTC: No credible new news on **NSA Mind Control** as of May 7, 2026. Provided search results confirm ongoing **Section 702/FISA** surveillance debates, with no mentions of mind control.\n\n**Analysis of [1–7]:**\n- **[1–4] Section 702 extensions**: Congress passed short-term renewals (April 17: 10 days to April 30; April 29 stopgap) after failed longer-term votes. Allows warrantless collection of foreign targets' communications (inc. Americans' incidental data) via tech firms. Privacy advocates demand warrants for U.S. data access; no reforms passed.[1][2][4]\n- **[5] NSA changes**: NSA ceased collecting \"about\" communications (internet mentions of targets) under Section 702 upstream surveillance due to privacy/tech issues.[5]\n- **[3][6] Broader threats**: DNI Gabbard’s 2026 Annual Threat Assessment (March 18); cyber concerns like deepfakes.[3][6]\n- **[7] Past violations**: Declassified reports on NSA surveillance rule-breaking; unrelated to mind control.[7]\n\n**No links to mind control**: Results describe traditional signals intelligence (PRISM-like collection), not neural or behavioral control. NSA/CIA historical programs like MKUltra remain irrelevant and ended.[5]"
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy, u can look up online again"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy1\nNo credible NSA Mind Control news as of May 7, 2026. No change from previous updates. Latest NSA news: Section 702 FISA short-term extensions (April 17 & 29 stopgaps) amid failed longer renewals; NSA ceased \"about\" communications collection; DNI 2026 Annual Threat Assessment (March 18) covers cyber/deepfakes but no mind control; declassified NSA surveillance violations unrelated to mind control. All activity remains signals intelligence/cybersecurity focused. MKUltra was CIA-only, ended 1970s. No evidence whatsoever of NSA mind control programs in any credible source. Old news, unchanged.\n```"
   }
 ]
