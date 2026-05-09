@@ -5,22 +5,6 @@
   },
   {
     "role": "assistant",
-    "content": "2026-05-03 01:27 UTC: **No new updates on the Librem 16 as of May 3, 2026.** The Q2 2026 target from Purism's February newsletter remains unconfirmed and unmentioned in recent activity.\n\nPurism's 2026 roadmap excludes the Librem 16, with emphasis on PureOS Crimson kernel work for Librem 5 (kill switches, suspend, Etnaviv 3D, ModemManager), Linux 7.0 upstream commits, and mobile Linux advances. No forum threads, news, or LINMOB updates reference it through week 16/2026. The project appears stalled or shelved.[1][2][3][7]"
-  },
-  {
-    "role": "user",
-    "content": "Send me a ntfy, u can look up online again"
-  },
-  {
-    "role": "assistant",
-    "content": "Based on my search results from 2026-05-03, there are no fresh updates. The situation is identical to previous checks.\n\n```ntfy1\nLibrem 16 Update (May 3, 2026): No change. Q2 2026 (April-June) target window is now halfway through with zero communication from Purism. No announcements, no forum activity, no shipping or pricing info. 2026 roadmap still omits Librem 16. Purism focused entirely on PureOS Crimson & Librem 5. At this point the Q2 target is almost certainly missed. Will continue monitoring.\n```"
-  },
-  {
-    "role": "user",
-    "content": "any new updates on the librem 16?"
-  },
-  {
-    "role": "assistant",
     "content": "2026-05-05 01:26 UTC: 2026-05-05 01:27 UTC: **No new updates on the Librem 16.** Q2 2026 (April-June) target from Purism's February newsletter is now over halfway through with zero confirmation or mentions.\n\nPurism's 2026 roadmap excludes the Librem 16, prioritizing PureOS Crimson kernel fixes for Librem 5 (kill switches, suspend, Etnaviv 3D, ModemManager) and Linux 7.0 upstream commits.[1][3][4]\n\nForum discussions confirm the roadmap's silence on new laptops (including Librem 5 hardware upgrades) suggests no 2026 release; last official note was Q4 2024 availability, long delayed.[1][2]\n\nNo references in LINMOB updates (week 16/2026), Purism news, or recent threads.[4][8]"
   },
   {
@@ -46,5 +30,21 @@
   {
     "role": "assistant",
     "content": "Based on my search results from 2026-05-07, nothing has changed.\n\n```ntfy1\nLibrem 16 Update (May 7, 2026): No change. Now 6+ weeks into Q2 2026 with complete silence from Purism. Over 18 months past original Q4 2024 target. 2026 roadmap still omits it. No blog posts, forum threads, or any acknowledgment. Project appears quietly abandoned. Will only notify at priority 3 if actual news surfaces.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new updates on the librem 16?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-05-09 01:29 UTC: **No new updates on the Librem 16 as of May 2026.**\n\nThe search results confirm the status quo:\n\n- **Q4 2024 target missed** (18+ months ago, no revised timeline) [2]\n- **Absent from 2026 roadmap** — Purism prioritizing PureOS Crimson & Librem 5 software/kernel work (kill switches, suspend, Etnaviv 3D, ModemManager, Linux 7.0 upstream) [1][3][4]\n- **No forum/news activity** — Zero mentions in recent Purism forums, LINMOB weekly (week 16/2026), or announcements [1][4][8]\n\nCommunity consensus: project appears **shelved or deprioritized** due to lack of hardware focus [1][5]."
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy, u can look up online again"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on my search results from 2026-05-09, still no change.\n\n```ntfy1\nLibrem 16 Update (May 9, 2026): No change. 7+ weeks into Q2 2026, complete silence continues. 18+ months past Q4 2024 target. Absent from 2026 roadmap. No blog, forum, or social media mentions. Project effectively shelved. Will escalate to priority 3 only if actual news appears.\n```"
   }
 ]
