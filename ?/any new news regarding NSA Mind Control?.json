@@ -5,22 +5,6 @@
   },
   {
     "role": "assistant",
-    "content": "2026-05-05 01:26 UTC: No credible new news on **NSA Mind Control** as of May 5, 2026. Current developments center exclusively on Section 702 surveillance extensions, with no references to mind control in official or recent reporting.\n\n**Key updates from latest sources:**\n- **Section 702 of FISA**: Congress passed short-term extensions on April 17 (to April 30) and April 29 (stopgap amid failed longer renewals), allowing NSA to collect foreign nationals' electronic communications abroad without warrants; this incidentally captures Americans' data, enabling warrantless FBI searches (e.g., on protesters, journalists, donors).[1][2][5][6][7]\n- NSA stopped collecting certain \"about\" communications (internet mentions of targets) under Section 702 upstream surveillance after reviewing privacy and tech constraints.[4]\n- Ongoing debates highlight abuses: FBI queried Americans' data without warrants; no reforms in proposals like Johnson's (April 23).[6]\n- **2026 Annual Threat Assessment**: Released by DNI Gabbard, covering general IC threats; no mind control mentions.[3]\n\nNSA's activities remain focused on **signals intelligence** under FISA, with privacy concerns limited to data collection/retention, not behavioral or mind control programs. Historical CIA MKUltra claims persist in unrelated contexts but have no NSA ties.[6]"
-  },
-  {
-    "role": "user",
-    "content": "Send me a ntfy, u can look up online again"
-  },
-  {
-    "role": "assistant",
-    "content": "```ntfy1\nNo credible NSA Mind Control news as of May 5, 2026. Latest NSA developments: Section 702 FISA stopgap extension (April 29) after failed longer renewal; NSA halted \"about\" communications collection under upstream surveillance citing privacy/tech constraints; FBI warrantless queries of Americans' data continue without reform; DNI Gabbard released 2026 Annual Threat Assessment with no mind control references. NSA focus remains signals intelligence and cybersecurity. No evidence of mind control programs in any official or credible sources. Old news - no changes from previous updates.\n```"
-  },
-  {
-    "role": "user",
-    "content": "any new news regarding NSA Mind Control?"
-  },
-  {
-    "role": "assistant",
     "content": "2026-05-07 01:29 UTC: 2026-05-07 01:30 UTC: No credible new news on **NSA Mind Control** as of May 7, 2026. Provided search results confirm ongoing **Section 702/FISA** surveillance debates, with no mentions of mind control.\n\n**Analysis of [1–7]:**\n- **[1–4] Section 702 extensions**: Congress passed short-term renewals (April 17: 10 days to April 30; April 29 stopgap) after failed longer-term votes. Allows warrantless collection of foreign targets' communications (inc. Americans' incidental data) via tech firms. Privacy advocates demand warrants for U.S. data access; no reforms passed.[1][2][4]\n- **[5] NSA changes**: NSA ceased collecting \"about\" communications (internet mentions of targets) under Section 702 upstream surveillance due to privacy/tech issues.[5]\n- **[3][6] Broader threats**: DNI Gabbard’s 2026 Annual Threat Assessment (March 18); cyber concerns like deepfakes.[3][6]\n- **[7] Past violations**: Declassified reports on NSA surveillance rule-breaking; unrelated to mind control.[7]\n\n**No links to mind control**: Results describe traditional signals intelligence (PRISM-like collection), not neural or behavioral control. NSA/CIA historical programs like MKUltra remain irrelevant and ended.[5]"
   },
   {
@@ -46,5 +30,21 @@
   {
     "role": "assistant",
     "content": "```ntfy1\nNo credible NSA Mind Control news as of May 9, 2026. Unchanged from all previous updates. Latest: Section 702 FISA short-term extensions (April 17 & 29); Brennan Center documents FBI warrantless query abuses on protesters/journalists but no mind control; DNI 2026 Threat Assessment (March 26) - general threats only; National Security Archive hosts historical MKUltra docs but no new NSA mind control releases; AI use in surveillance (Anthropic Claude in Venezuela raid) noted but unrelated to mind control. NSA remains focused on signals intelligence/cybersecurity. Zero evidence of mind control programs. No change expected - this topic has no credible basis in current reporting.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new news regarding NSA Mind Control?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-05-11 01:49 UTC: 2026-05-11 01:49 UTC: No credible new news on **NSA Mind Control** as of May 11, 2026. Provided search results [1–4] continue to document **Section 702/FISA surveillance** debates and violations, with **zero mentions of mind control**.\n\n**Results summary:**\n- **[1] DNI 2026 Threat Assessment** (March 26): General IC threats; no mind control references.[1]\n- **[2] Brennan Center Section 702 Resource Page**: Details FBI warrantless query abuses (BLM protesters, officials, journalists, 19,000 campaign donors); Johnson Proposal (April 23), Higgins Proposal (April 16), FISA Court violations (April 12), data broker loophole (March 17); no mind control.[2]\n- **[3] POGO Declassified NSA Report**: NSA broke surveillance rules; failed to prevent privacy violations; unrelated to mind control.[3]\n- **[4] EFF Deep Links (April 2026)**: Section 702 renewal debate—NSA collects full overseas conversations, FBI conducts warrantless queries on Americans without warrant; \"finders keepers\" surveillance mode; compliance issues; no mind control.[4]\n\n**Persistent pattern**: All results address **communications surveillance** (PRISM, upstream collection, metadata), **warrantless FBI queries**, and **privacy violations**—not neural, behavioral, or mind control programs.\n\n**Conclusion**: No credible evidence of NSA mind control initiatives exists in any official, investigative, or civil liberties sources. Topic remains unfounded."
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy, u can look up online again"
+  },
+  {
+    "role": "assistant",
+    "content": "```ntfy1\nNo credible NSA Mind Control news as of May 11, 2026. 5th consecutive check with zero changes. Latest sources: DNI 2026 Threat Assessment (March 26) - general threats only; Brennan Center documents Section 702 FBI query abuses (19,000 donors, BLM protesters, journalists); POGO declassified NSA report on surveillance rule-breaking; EFF details \"finders keepers\" surveillance mode & warrantless queries. All focus on communications/metadata collection under FISA. No neural/behavioral/mind control references in any official, investigative, or civil liberties reporting. MKUltra was CIA 1950s-70s, terminated. This topic has no credible basis. Will stop monitoring unless requested otherwise.\n```"
   }
 ]

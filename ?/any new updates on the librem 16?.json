@@ -5,22 +5,6 @@
   },
   {
     "role": "assistant",
-    "content": "2026-05-05 01:26 UTC: 2026-05-05 01:27 UTC: **No new updates on the Librem 16.** Q2 2026 (April-June) target from Purism's February newsletter is now over halfway through with zero confirmation or mentions.\n\nPurism's 2026 roadmap excludes the Librem 16, prioritizing PureOS Crimson kernel fixes for Librem 5 (kill switches, suspend, Etnaviv 3D, ModemManager) and Linux 7.0 upstream commits.[1][3][4]\n\nForum discussions confirm the roadmap's silence on new laptops (including Librem 5 hardware upgrades) suggests no 2026 release; last official note was Q4 2024 availability, long delayed.[1][2]\n\nNo references in LINMOB updates (week 16/2026), Purism news, or recent threads.[4][8]"
-  },
-  {
-    "role": "user",
-    "content": "Send me a ntfy, u can look up online again"
-  },
-  {
-    "role": "assistant",
-    "content": "Based on my search results from 2026-05-05, there are still no fresh updates. The situation remains unchanged.\n\n```ntfy1\nLibrem 16 Update (May 5, 2026): Still nothing. Q2 2026 window now >5 weeks in with no word from Purism. No announcements, blog posts, forum threads, or shipping/pricing info. 2026 roadmap continues to omit Librem 16. Purism silent on laptop hardware entirely. Q2 target almost certainly missed again. Will flag if anything changes.\n```"
-  },
-  {
-    "role": "user",
-    "content": "any new updates on the librem 16?"
-  },
-  {
-    "role": "assistant",
     "content": "2026-05-07 01:29 UTC: Based on the search results provided, **no new updates on the Librem 16 as of May 2026.**\n\nThe most recent concrete information remains:\n\n- **Q4 2024 availability target** (from the \"From the Hackdesk: Librem 16\" announcement [2]) — now long overdue with no explanation or revised timeline.\n\n- **2026 roadmap excludes it** [1] — Purism's official 2026 roadmap does not mention the Librem 16 or any new laptop hardware, focusing entirely on PureOS Crimson software improvements for Librem 5.\n\n- **Purism's focus is mobile, not laptops** [3][4] — Recent activity centers on Librem 5 kernel fixes (kill switches, suspend, display, ModemManager) and Linux 7.0 upstreaming.\n\n- **No forum activity or announcements** [5] — LINMOB weekly updates through week 18/2026 show no Librem 16 mentions; Purism forums remain silent.\n\nThe project appears **indefinitely delayed or quietly shelved**. The absence from the 2026 roadmap combined with over 18 months past the Q4 2024 target suggests Purism has deprioritized or abandoned it."
   },
   {
@@ -46,5 +30,21 @@
   {
     "role": "assistant",
     "content": "Based on my search results from 2026-05-09, still no change.\n\n```ntfy1\nLibrem 16 Update (May 9, 2026): No change. 7+ weeks into Q2 2026, complete silence continues. 18+ months past Q4 2024 target. Absent from 2026 roadmap. No blog, forum, or social media mentions. Project effectively shelved. Will escalate to priority 3 only if actual news appears.\n```"
+  },
+  {
+    "role": "user",
+    "content": "any new updates on the librem 16?"
+  },
+  {
+    "role": "assistant",
+    "content": "2026-05-11 01:49 UTC: **No new updates on the Librem 16 as of May 11, 2026.**\n\nSearch results through week 18/2026 confirm **complete radio silence**:\n\n- **Q4 2024 target** (18+ months overdue, no revision) [2]\n- **Omitted from 2026 roadmap** — Purism focusing exclusively on PureOS Crimson beta/kernel fixes for Librem 5 (cameras, suspend, uSDHC, ModemManager, Linux 6.6.127→7.0 upstream) [1][3][5]\n- **No mentions anywhere** — Zero hits in Purism news/forums [8][9], LINMOB weekly (up to 18/2026) [4], or community threads [1]\n\n**Status: Effectively cancelled/deprioritized.** Purism appears to have shifted entirely to phone/server software maintenance."
+  },
+  {
+    "role": "user",
+    "content": "Send me a ntfy, u can look up online again"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on my search results from 2026-05-11, still nothing new.\n\n```ntfy1\nLibrem 16 Update (May 11, 2026): No change. 8 weeks into Q2 2026, total silence. 19 months past Q4 2024 target. Still absent from all Purism communications & 2026 roadmap. At this point effectively dead unless Purism surprises. Reducing check-in urgency — will only ping priority 2+ if something actually surfaces.\n```"
   }
 ]
